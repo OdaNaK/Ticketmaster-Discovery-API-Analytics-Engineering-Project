@@ -13,6 +13,10 @@ The project covers the full data lifecycle:
 
 ---
 
+## Architecture Overview
+
+![Ticketmaster Data Pipeline Architecture](docs/architecture.png)
+
 ## Data Source — Ticketmaster Discovery API
 
 The data is extracted from the Ticketmaster Discovery API, which allows access to:
